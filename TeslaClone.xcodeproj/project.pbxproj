@@ -11,6 +11,49 @@
 		ADA13E842AF41B58009CC39F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13E832AF41B58009CC39F /* ContentView.swift */; };
 		ADA13E862AF41B59009CC39F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADA13E852AF41B59009CC39F /* Assets.xcassets */; };
 		ADA13E892AF41B59009CC39F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADA13E882AF41B59009CC39F /* Preview Assets.xcassets */; };
+		ADA13EFC2AF4388A009CC39F /* Sliders in Frameworks */ = {isa = PBXBuildFile; productRef = ADA13EFB2AF4388A009CC39F /* Sliders */; };
+		ADA13F072AF438EB009CC39F /* CustomSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13EFF2AF438EB009CC39F /* CustomSlider.swift */; };
+		ADA13F082AF438EB009CC39F /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F002AF438EB009CC39F /* BlurView.swift */; };
+		ADA13F092AF438EB009CC39F /* MeasureSizeModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F012AF438EB009CC39F /* MeasureSizeModifier.swift */; };
+		ADA13F0A2AF438EB009CC39F /* ViewStroke.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F022AF438EB009CC39F /* ViewStroke.swift */; };
+		ADA13F0B2AF438EB009CC39F /* UtilityButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F032AF438EB009CC39F /* UtilityButton.swift */; };
+		ADA13F0C2AF438EB009CC39F /* SizePreferenceKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F042AF438EB009CC39F /* SizePreferenceKey.swift */; };
+		ADA13F0D2AF438EB009CC39F /* CircleProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F052AF438EB009CC39F /* CircleProgressView.swift */; };
+		ADA13F0E2AF438EB009CC39F /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F062AF438EB009CC39F /* Shapes.swift */; };
+		ADA13F1B2AF43903009CC39F /* Color+lockGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F112AF43903009CC39F /* Color+lockGradient.swift */; };
+		ADA13F1C2AF43903009CC39F /* Color+selectedGridBackgroud.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F122AF43903009CC39F /* Color+selectedGridBackgroud.swift */; };
+		ADA13F1D2AF43903009CC39F /* Color+mapBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F132AF43903009CC39F /* Color+mapBackground.swift */; };
+		ADA13F1E2AF43903009CC39F /* Color+background.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F142AF43903009CC39F /* Color+background.swift */; };
+		ADA13F1F2AF43903009CC39F /* Color+gridBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F152AF43903009CC39F /* Color+gridBackground.swift */; };
+		ADA13F202AF43903009CC39F /* View+measureSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F172AF43903009CC39F /* View+measureSize.swift */; };
+		ADA13F212AF43903009CC39F /* View+cornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F182AF43903009CC39F /* View+cornerRadius.swift */; };
+		ADA13F222AF43903009CC39F /* View+innerShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F192AF43903009CC39F /* View+innerShadow.swift */; };
+		ADA13F232AF43903009CC39F /* View+backgroundBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F1A2AF43903009CC39F /* View+backgroundBlur.swift */; };
+		ADA13F522AF4390D009CC39F /* Climate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F272AF4390D009CC39F /* Climate.swift */; };
+		ADA13F532AF4390D009CC39F /* ClimateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F292AF4390D009CC39F /* ClimateView.swift */; };
+		ADA13F542AF4390D009CC39F /* ControlWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F2A2AF4390D009CC39F /* ControlWidget.swift */; };
+		ADA13F552AF4390D009CC39F /* ClimateWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F2B2AF4390D009CC39F /* ClimateWidget.swift */; };
+		ADA13F562AF4390D009CC39F /* ClimateKnobWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F2C2AF4390D009CC39F /* ClimateKnobWidget.swift */; };
+		ADA13F572AF4390D009CC39F /* ProgressWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F2D2AF4390D009CC39F /* ProgressWidget.swift */; };
+		ADA13F582AF4390D009CC39F /* VoiceWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F2F2AF4390D009CC39F /* VoiceWidget.swift */; };
+		ADA13F592AF4390D009CC39F /* MediaPlayerWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F312AF4390D009CC39F /* MediaPlayerWidget.swift */; };
+		ADA13F5A2AF4390D009CC39F /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F352AF4390D009CC39F /* SettingsView.swift */; };
+		ADA13F5B2AF4390D009CC39F /* SettingItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F362AF4390D009CC39F /* SettingItem.swift */; };
+		ADA13F5C2AF4390D009CC39F /* CarControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F382AF4390D009CC39F /* CarControlsView.swift */; };
+		ADA13F5D2AF4390D009CC39F /* CarControlsActionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F392AF4390D009CC39F /* CarControlsActionView.swift */; };
+		ADA13F5E2AF4390D009CC39F /* IconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F3A2AF4390D009CC39F /* IconButton.swift */; };
+		ADA13F5F2AF4390D009CC39F /* LocationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F3D2AF4390D009CC39F /* LocationViewModel.swift */; };
+		ADA13F602AF4390D009CC39F /* CarLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F3F2AF4390D009CC39F /* CarLocation.swift */; };
+		ADA13F612AF4390D009CC39F /* CarPinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F412AF4390D009CC39F /* CarPinView.swift */; };
+		ADA13F622AF4390D009CC39F /* LocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F422AF4390D009CC39F /* LocationView.swift */; };
+		ADA13F632AF4390D009CC39F /* LocationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F432AF4390D009CC39F /* LocationButton.swift */; };
+		ADA13F642AF4390D009CC39F /* LocationBottomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F442AF4390D009CC39F /* LocationBottomView.swift */; };
+		ADA13F652AF4390D009CC39F /* LockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F472AF4390D009CC39F /* LockView.swift */; };
+		ADA13F662AF4390D009CC39F /* ChargingWidgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F4A2AF4390D009CC39F /* ChargingWidgetView.swift */; };
+		ADA13F672AF4390D009CC39F /* RemoteAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F4D2AF4390D009CC39F /* RemoteAction.swift */; };
+		ADA13F682AF4390D009CC39F /* RemoteActionNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F4F2AF4390D009CC39F /* RemoteActionNotificationView.swift */; };
+		ADA13F692AF4390D009CC39F /* RemoteActionViewHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F502AF4390D009CC39F /* RemoteActionViewHeader.swift */; };
+		ADA13F6A2AF4390D009CC39F /* RemoteActionItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA13F512AF4390D009CC39F /* RemoteActionItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +62,48 @@
 		ADA13E832AF41B58009CC39F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADA13E852AF41B59009CC39F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADA13E882AF41B59009CC39F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADA13EFF2AF438EB009CC39F /* CustomSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSlider.swift; sourceTree = "<group>"; };
+		ADA13F002AF438EB009CC39F /* BlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		ADA13F012AF438EB009CC39F /* MeasureSizeModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeasureSizeModifier.swift; sourceTree = "<group>"; };
+		ADA13F022AF438EB009CC39F /* ViewStroke.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewStroke.swift; sourceTree = "<group>"; };
+		ADA13F032AF438EB009CC39F /* UtilityButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UtilityButton.swift; sourceTree = "<group>"; };
+		ADA13F042AF438EB009CC39F /* SizePreferenceKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SizePreferenceKey.swift; sourceTree = "<group>"; };
+		ADA13F052AF438EB009CC39F /* CircleProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleProgressView.swift; sourceTree = "<group>"; };
+		ADA13F062AF438EB009CC39F /* Shapes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		ADA13F112AF43903009CC39F /* Color+lockGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+lockGradient.swift"; sourceTree = "<group>"; };
+		ADA13F122AF43903009CC39F /* Color+selectedGridBackgroud.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+selectedGridBackgroud.swift"; sourceTree = "<group>"; };
+		ADA13F132AF43903009CC39F /* Color+mapBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+mapBackground.swift"; sourceTree = "<group>"; };
+		ADA13F142AF43903009CC39F /* Color+background.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+background.swift"; sourceTree = "<group>"; };
+		ADA13F152AF43903009CC39F /* Color+gridBackground.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+gridBackground.swift"; sourceTree = "<group>"; };
+		ADA13F172AF43903009CC39F /* View+measureSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+measureSize.swift"; sourceTree = "<group>"; };
+		ADA13F182AF43903009CC39F /* View+cornerRadius.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+cornerRadius.swift"; sourceTree = "<group>"; };
+		ADA13F192AF43903009CC39F /* View+innerShadow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+innerShadow.swift"; sourceTree = "<group>"; };
+		ADA13F1A2AF43903009CC39F /* View+backgroundBlur.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+backgroundBlur.swift"; sourceTree = "<group>"; };
+		ADA13F272AF4390D009CC39F /* Climate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Climate.swift; sourceTree = "<group>"; };
+		ADA13F292AF4390D009CC39F /* ClimateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimateView.swift; sourceTree = "<group>"; };
+		ADA13F2A2AF4390D009CC39F /* ControlWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControlWidget.swift; sourceTree = "<group>"; };
+		ADA13F2B2AF4390D009CC39F /* ClimateWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimateWidget.swift; sourceTree = "<group>"; };
+		ADA13F2C2AF4390D009CC39F /* ClimateKnobWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClimateKnobWidget.swift; sourceTree = "<group>"; };
+		ADA13F2D2AF4390D009CC39F /* ProgressWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressWidget.swift; sourceTree = "<group>"; };
+		ADA13F2F2AF4390D009CC39F /* VoiceWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VoiceWidget.swift; sourceTree = "<group>"; };
+		ADA13F312AF4390D009CC39F /* MediaPlayerWidget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaPlayerWidget.swift; sourceTree = "<group>"; };
+		ADA13F352AF4390D009CC39F /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		ADA13F362AF4390D009CC39F /* SettingItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingItem.swift; sourceTree = "<group>"; };
+		ADA13F382AF4390D009CC39F /* CarControlsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarControlsView.swift; sourceTree = "<group>"; };
+		ADA13F392AF4390D009CC39F /* CarControlsActionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarControlsActionView.swift; sourceTree = "<group>"; };
+		ADA13F3A2AF4390D009CC39F /* IconButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconButton.swift; sourceTree = "<group>"; };
+		ADA13F3D2AF4390D009CC39F /* LocationViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationViewModel.swift; sourceTree = "<group>"; };
+		ADA13F3F2AF4390D009CC39F /* CarLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarLocation.swift; sourceTree = "<group>"; };
+		ADA13F412AF4390D009CC39F /* CarPinView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarPinView.swift; sourceTree = "<group>"; };
+		ADA13F422AF4390D009CC39F /* LocationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationView.swift; sourceTree = "<group>"; };
+		ADA13F432AF4390D009CC39F /* LocationButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationButton.swift; sourceTree = "<group>"; };
+		ADA13F442AF4390D009CC39F /* LocationBottomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationBottomView.swift; sourceTree = "<group>"; };
+		ADA13F472AF4390D009CC39F /* LockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LockView.swift; sourceTree = "<group>"; };
+		ADA13F4A2AF4390D009CC39F /* ChargingWidgetView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChargingWidgetView.swift; sourceTree = "<group>"; };
+		ADA13F4D2AF4390D009CC39F /* RemoteAction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteAction.swift; sourceTree = "<group>"; };
+		ADA13F4F2AF4390D009CC39F /* RemoteActionNotificationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteActionNotificationView.swift; sourceTree = "<group>"; };
+		ADA13F502AF4390D009CC39F /* RemoteActionViewHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteActionViewHeader.swift; sourceTree = "<group>"; };
+		ADA13F512AF4390D009CC39F /* RemoteActionItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RemoteActionItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +111,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADA13EFC2AF4388A009CC39F /* Sliders in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,10 +137,11 @@
 		ADA13E802AF41B58009CC39F /* TeslaClone */ = {
 			isa = PBXGroup;
 			children = (
-				ADA13E812AF41B58009CC39F /* TeslaCloneApp.swift */,
-				ADA13E832AF41B58009CC39F /* ContentView.swift */,
-				ADA13E852AF41B59009CC39F /* Assets.xcassets */,
+				ADA13F242AF4390D009CC39F /* Components */,
+				ADA13F0F2AF43903009CC39F /* Extensions */,
 				ADA13E872AF41B59009CC39F /* Preview Content */,
+				ADA13EFD2AF43892009CC39F /* Source */,
+				ADA13EFE2AF438EB009CC39F /* Utils */,
 			);
 			path = TeslaClone;
 			sourceTree = "<group>";
@@ -65,6 +152,255 @@
 				ADA13E882AF41B59009CC39F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		ADA13EFD2AF43892009CC39F /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13E852AF41B59009CC39F /* Assets.xcassets */,
+				ADA13E832AF41B58009CC39F /* ContentView.swift */,
+				ADA13E812AF41B58009CC39F /* TeslaCloneApp.swift */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		ADA13EFE2AF438EB009CC39F /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13EFF2AF438EB009CC39F /* CustomSlider.swift */,
+				ADA13F002AF438EB009CC39F /* BlurView.swift */,
+				ADA13F012AF438EB009CC39F /* MeasureSizeModifier.swift */,
+				ADA13F022AF438EB009CC39F /* ViewStroke.swift */,
+				ADA13F032AF438EB009CC39F /* UtilityButton.swift */,
+				ADA13F042AF438EB009CC39F /* SizePreferenceKey.swift */,
+				ADA13F052AF438EB009CC39F /* CircleProgressView.swift */,
+				ADA13F062AF438EB009CC39F /* Shapes.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		ADA13F0F2AF43903009CC39F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F102AF43903009CC39F /* Color */,
+				ADA13F162AF43903009CC39F /* View */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		ADA13F102AF43903009CC39F /* Color */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F112AF43903009CC39F /* Color+lockGradient.swift */,
+				ADA13F122AF43903009CC39F /* Color+selectedGridBackgroud.swift */,
+				ADA13F132AF43903009CC39F /* Color+mapBackground.swift */,
+				ADA13F142AF43903009CC39F /* Color+background.swift */,
+				ADA13F152AF43903009CC39F /* Color+gridBackground.swift */,
+			);
+			path = Color;
+			sourceTree = "<group>";
+		};
+		ADA13F162AF43903009CC39F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F172AF43903009CC39F /* View+measureSize.swift */,
+				ADA13F182AF43903009CC39F /* View+cornerRadius.swift */,
+				ADA13F192AF43903009CC39F /* View+innerShadow.swift */,
+				ADA13F1A2AF43903009CC39F /* View+backgroundBlur.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		ADA13F242AF4390D009CC39F /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F252AF4390D009CC39F /* ClimateControl */,
+				ADA13F2E2AF4390D009CC39F /* VoiceCommand */,
+				ADA13F302AF4390D009CC39F /* MediaPlayer */,
+				ADA13F322AF4390D009CC39F /* Settings */,
+				ADA13F372AF4390D009CC39F /* CarControls */,
+				ADA13F3B2AF4390D009CC39F /* Location */,
+				ADA13F452AF4390D009CC39F /* Locking */,
+				ADA13F482AF4390D009CC39F /* Models */,
+				ADA13F492AF4390D009CC39F /* Charging */,
+				ADA13F4B2AF4390D009CC39F /* RemoteAction */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		ADA13F252AF4390D009CC39F /* ClimateControl */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F262AF4390D009CC39F /* Model */,
+				ADA13F282AF4390D009CC39F /* Views */,
+			);
+			path = ClimateControl;
+			sourceTree = "<group>";
+		};
+		ADA13F262AF4390D009CC39F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F272AF4390D009CC39F /* Climate.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ADA13F282AF4390D009CC39F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F292AF4390D009CC39F /* ClimateView.swift */,
+				ADA13F2A2AF4390D009CC39F /* ControlWidget.swift */,
+				ADA13F2B2AF4390D009CC39F /* ClimateWidget.swift */,
+				ADA13F2C2AF4390D009CC39F /* ClimateKnobWidget.swift */,
+				ADA13F2D2AF4390D009CC39F /* ProgressWidget.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ADA13F2E2AF4390D009CC39F /* VoiceCommand */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F2F2AF4390D009CC39F /* VoiceWidget.swift */,
+			);
+			path = VoiceCommand;
+			sourceTree = "<group>";
+		};
+		ADA13F302AF4390D009CC39F /* MediaPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F312AF4390D009CC39F /* MediaPlayerWidget.swift */,
+			);
+			path = MediaPlayer;
+			sourceTree = "<group>";
+		};
+		ADA13F322AF4390D009CC39F /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F332AF4390D009CC39F /* Model */,
+				ADA13F342AF4390D009CC39F /* View */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		ADA13F332AF4390D009CC39F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ADA13F342AF4390D009CC39F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F352AF4390D009CC39F /* SettingsView.swift */,
+				ADA13F362AF4390D009CC39F /* SettingItem.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		ADA13F372AF4390D009CC39F /* CarControls */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F382AF4390D009CC39F /* CarControlsView.swift */,
+				ADA13F392AF4390D009CC39F /* CarControlsActionView.swift */,
+				ADA13F3A2AF4390D009CC39F /* IconButton.swift */,
+			);
+			path = CarControls;
+			sourceTree = "<group>";
+		};
+		ADA13F3B2AF4390D009CC39F /* Location */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F3C2AF4390D009CC39F /* ViewModel */,
+				ADA13F3E2AF4390D009CC39F /* Model */,
+				ADA13F402AF4390D009CC39F /* View */,
+			);
+			path = Location;
+			sourceTree = "<group>";
+		};
+		ADA13F3C2AF4390D009CC39F /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F3D2AF4390D009CC39F /* LocationViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		ADA13F3E2AF4390D009CC39F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F3F2AF4390D009CC39F /* CarLocation.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ADA13F402AF4390D009CC39F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F412AF4390D009CC39F /* CarPinView.swift */,
+				ADA13F422AF4390D009CC39F /* LocationView.swift */,
+				ADA13F432AF4390D009CC39F /* LocationButton.swift */,
+				ADA13F442AF4390D009CC39F /* LocationBottomView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		ADA13F452AF4390D009CC39F /* Locking */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F462AF4390D009CC39F /* View */,
+			);
+			path = Locking;
+			sourceTree = "<group>";
+		};
+		ADA13F462AF4390D009CC39F /* View */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F472AF4390D009CC39F /* LockView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		ADA13F482AF4390D009CC39F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ADA13F492AF4390D009CC39F /* Charging */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F4A2AF4390D009CC39F /* ChargingWidgetView.swift */,
+			);
+			path = Charging;
+			sourceTree = "<group>";
+		};
+		ADA13F4B2AF4390D009CC39F /* RemoteAction */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F4C2AF4390D009CC39F /* Model */,
+				ADA13F4E2AF4390D009CC39F /* Views */,
+			);
+			path = RemoteAction;
+			sourceTree = "<group>";
+		};
+		ADA13F4C2AF4390D009CC39F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F4D2AF4390D009CC39F /* RemoteAction.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		ADA13F4E2AF4390D009CC39F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ADA13F4F2AF4390D009CC39F /* RemoteActionNotificationView.swift */,
+				ADA13F502AF4390D009CC39F /* RemoteActionViewHeader.swift */,
+				ADA13F512AF4390D009CC39F /* RemoteActionItemView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +419,9 @@
 			dependencies = (
 			);
 			name = TeslaClone;
+			packageProductDependencies = (
+				ADA13EFB2AF4388A009CC39F /* Sliders */,
+			);
 			productName = TeslaClone;
 			productReference = ADA13E7E2AF41B58009CC39F /* TeslaClone.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +450,9 @@
 				Base,
 			);
 			mainGroup = ADA13E752AF41B58009CC39F;
+			packageReferences = (
+				ADA13EFA2AF4388A009CC39F /* XCRemoteSwiftPackageReference "swiftui-sliders" */,
+			);
 			productRefGroup = ADA13E7F2AF41B58009CC39F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -138,7 +480,49 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADA13E842AF41B58009CC39F /* ContentView.swift in Sources */,
+				ADA13F082AF438EB009CC39F /* BlurView.swift in Sources */,
+				ADA13F632AF4390D009CC39F /* LocationButton.swift in Sources */,
+				ADA13F1B2AF43903009CC39F /* Color+lockGradient.swift in Sources */,
+				ADA13F522AF4390D009CC39F /* Climate.swift in Sources */,
+				ADA13F0D2AF438EB009CC39F /* CircleProgressView.swift in Sources */,
+				ADA13F542AF4390D009CC39F /* ControlWidget.swift in Sources */,
+				ADA13F612AF4390D009CC39F /* CarPinView.swift in Sources */,
+				ADA13F202AF43903009CC39F /* View+measureSize.swift in Sources */,
+				ADA13F602AF4390D009CC39F /* CarLocation.swift in Sources */,
+				ADA13F592AF4390D009CC39F /* MediaPlayerWidget.swift in Sources */,
+				ADA13F0A2AF438EB009CC39F /* ViewStroke.swift in Sources */,
+				ADA13F0B2AF438EB009CC39F /* UtilityButton.swift in Sources */,
+				ADA13F1F2AF43903009CC39F /* Color+gridBackground.swift in Sources */,
+				ADA13F092AF438EB009CC39F /* MeasureSizeModifier.swift in Sources */,
+				ADA13F692AF4390D009CC39F /* RemoteActionViewHeader.swift in Sources */,
+				ADA13F572AF4390D009CC39F /* ProgressWidget.swift in Sources */,
+				ADA13F1D2AF43903009CC39F /* Color+mapBackground.swift in Sources */,
+				ADA13F0C2AF438EB009CC39F /* SizePreferenceKey.swift in Sources */,
+				ADA13F642AF4390D009CC39F /* LocationBottomView.swift in Sources */,
+				ADA13F682AF4390D009CC39F /* RemoteActionNotificationView.swift in Sources */,
+				ADA13F1E2AF43903009CC39F /* Color+background.swift in Sources */,
+				ADA13F5F2AF4390D009CC39F /* LocationViewModel.swift in Sources */,
+				ADA13F5E2AF4390D009CC39F /* IconButton.swift in Sources */,
+				ADA13F5B2AF4390D009CC39F /* SettingItem.swift in Sources */,
+				ADA13F6A2AF4390D009CC39F /* RemoteActionItemView.swift in Sources */,
+				ADA13F652AF4390D009CC39F /* LockView.swift in Sources */,
+				ADA13F672AF4390D009CC39F /* RemoteAction.swift in Sources */,
+				ADA13F0E2AF438EB009CC39F /* Shapes.swift in Sources */,
+				ADA13F552AF4390D009CC39F /* ClimateWidget.swift in Sources */,
+				ADA13F5C2AF4390D009CC39F /* CarControlsView.swift in Sources */,
+				ADA13F1C2AF43903009CC39F /* Color+selectedGridBackgroud.swift in Sources */,
+				ADA13F622AF4390D009CC39F /* LocationView.swift in Sources */,
+				ADA13F662AF4390D009CC39F /* ChargingWidgetView.swift in Sources */,
+				ADA13F072AF438EB009CC39F /* CustomSlider.swift in Sources */,
+				ADA13F222AF43903009CC39F /* View+innerShadow.swift in Sources */,
+				ADA13F5D2AF4390D009CC39F /* CarControlsActionView.swift in Sources */,
+				ADA13F5A2AF4390D009CC39F /* SettingsView.swift in Sources */,
+				ADA13F532AF4390D009CC39F /* ClimateView.swift in Sources */,
+				ADA13F212AF43903009CC39F /* View+cornerRadius.swift in Sources */,
+				ADA13F582AF4390D009CC39F /* VoiceWidget.swift in Sources */,
 				ADA13E822AF41B58009CC39F /* TeslaCloneApp.swift in Sources */,
+				ADA13F232AF43903009CC39F /* View+backgroundBlur.swift in Sources */,
+				ADA13F562AF4390D009CC39F /* ClimateKnobWidget.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +579,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +633,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -275,6 +659,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -282,9 +667,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.chhamilton00.TeslaClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -304,6 +692,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,9 +700,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.chhamilton00.TeslaClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -339,6 +731,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		ADA13EFA2AF4388A009CC39F /* XCRemoteSwiftPackageReference "swiftui-sliders" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/spacenation/swiftui-sliders.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		ADA13EFB2AF4388A009CC39F /* Sliders */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ADA13EFA2AF4388A009CC39F /* XCRemoteSwiftPackageReference "swiftui-sliders" */;
+			productName = Sliders;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = ADA13E762AF41B58009CC39F /* Project object */;
 }
